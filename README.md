@@ -1,5 +1,5 @@
 # kata-Japanese-Romaji-to-Hiragana-Converter
- ん に ち は!  Esta か た (kata) es para traducir romaji, o japonés escrito en caracteres latinos, en hiragana, un conjunto de caracteres japoneses que se utiliza para deletrear fonéticamente palabras nativas en japonés (entre otras cosas). No necesitas ningún conocimiento previo de japonés para completar este た - ¡Tú puedes hacerlo! ん ば っ て!
+ ん に ち は! Esta か た (kata) es para traducir romaji, o japonés escrito en caracteres latinos, en hiragana, un conjunto de caracteres japoneses que se utiliza para deletrear fonéticamente palabras nativas en japonés (entre otras cosas). No necesitas ningún conocimiento previo de japonés para completar este た - ¡Tú puedes hacerlo! ん ば っ て!
 
 Fundamentos de Hiragana
 1. Hay 46 símbolos hiragana básicos, como se ve en la tabla a continuación. Debe leerse de derecha a izquierda.
@@ -64,6 +64,8 @@ Notas:
 Supongamos que nya, nyu y nyo siempre se escribirán como に ゃ, に ゅ y に ょ, y nunca como ん や, etc.
 
 Si bien se proporcionan todas las sílabas concatenadas, se puede acceder a ゃ, ゅ y ょ individualmente con yaSmall, yuSmall y yoSmall, respectivamente.
+
+En esta solución no se hace uso del diccionario proporcionado por el autor de la katana.
 
 este es el link de CodeWars de la kata: https://www.codewars.com/kata/5be0c8601b109ad2450000a5  
 
