@@ -65,7 +65,7 @@ Supongamos que nya, nyu y nyo siempre se escribirán como に ゃ, に ゅ y に
 
 Si bien se proporcionan todas las sílabas concatenadas, se puede acceder a ゃ, ゅ y ょ individualmente con yaSmall, yuSmall y yoSmall, respectivamente.
 
-En esta solución no se hace uso del diccionario proporcionado por el autor de la katana.
+En esta solución no se hace uso del diccionario proporcionado por el autor de la kata.
 
 este es el link de CodeWars de la kata: https://www.codewars.com/kata/5be0c8601b109ad2450000a5  
 
